@@ -1,5 +1,5 @@
 #第六章抽象
-'''
+
 #test1
 import math
 fibs = [0,1]
@@ -28,7 +28,7 @@ def fibs(num):
 	return result
 fibs = fibs(5)
 print(fibs)
-'''
+
 #test5 文档化函数
 
 def square(x):
