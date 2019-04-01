@@ -146,14 +146,38 @@ print(list(flattern(nested)))
 def flatternl(nested):
 	try:
 		for sublist in nested:
-			for num in flattern(sublist):
-				yield num
+			for element in flatternl(sublist):
+				yield element
 	except:
 		print('something wrong')
 		yield nested
 
-nested = [[[1],2],3,4,[5,[6,7]],[8]]
+nested = [[[1],2],[3,4],[5,[6,7]],[8]]
 print(list(flatternl(nested)))
+#八皇后问题
+def conflict(state,nextX):
+	nextY = len(state)
+	for i in range(nextY):
+		if abs(state[i]-nextX) in (0,nextY-i):
+			return True
+	return False
+def queens(num,state):
+	if len(state) ==num-1:
+		for pos in range(num):
+			if not conflict(state,pos):
+				yield pos
+print(list(queens(4,(1,3,0)))) 
+
+def queens(num=8,state=()):
+	for pos in range(num):
+		if not conflict(state,pos):
+			if(len(state))==num-1:
+				yield (pos,)
+			else:
+				for result in queens(num,state+(pos,)):
+					yield (pos,)+result
+print(list(queens(4)))
+print(list(queens(5)))
 
 
 
