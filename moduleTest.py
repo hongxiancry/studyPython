@@ -8,7 +8,7 @@ import moduleScript1
 import copy
 import sys
 import os
-'''
+
 name = input("input your name!")
 inputName = moduleScript1.greeting(name)
 print(inputName)
@@ -23,7 +23,7 @@ print(' '.join(reversed(sys.argv[1:])))
 print([n for n in dir(os) if not n.startswith('_')])
 
 print(os.__all__)
-'''
+
 from heapq import *
 import random
 heap = []
@@ -37,7 +37,5 @@ for n in data:
 	heappush(heap,n)
 print(heap)
 heappop(heap)
-print(heap)
-help(*)
 print(heap)
 
