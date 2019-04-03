@@ -1,0 +1,7 @@
+python
+pythonscript
+pythonstudy
+this is my first python file
+jpython
+cpython
+and all....python
