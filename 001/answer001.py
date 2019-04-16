@@ -21,4 +21,6 @@ def generateCode(codeCount, codeLen):
 if __name__== '__main__':
 	codeLen = int(input('please input your code length:'))
 	codeCount = int(input('please input your code count:'))
-	generateCode(codeCount, codeLen)
+	for code in range(codeCount):
+		results = generateCode(codeCount, codeLen)
+		print(results)
