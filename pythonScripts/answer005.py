@@ -1,4 +1,4 @@
-'第 0005 题：你有一个目录，装了很多照片，把它们的尺寸变成都不大于 iPhone5 分辨率(1136x640)的大小。'
+'第 0005 题：你有一个目录，装了很多照片，把它们的尺寸变成都不大于 iPhone5 分辨率(1136x640)的大小。（遇到的问题，from PIL import Image 放在最前面，否则运行时会报错）'
 __author__='chairuiya'
 
 from PIL import Image
@@ -30,6 +30,8 @@ if __name__ == '__main__':
 	#print('imagesPath:',imagesPath)
 	os.chdir(imagesPath)
 	thumbnailPics(imagesPath)
+
+
 
 
 
