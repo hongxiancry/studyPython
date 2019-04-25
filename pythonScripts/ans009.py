@@ -18,7 +18,6 @@ class myHTMLParser(HTMLParser):
 		else:
 			pass
 
-
 #test_main
 if __name__ == '__main__':
 	htmltext = '<html><div>htmltest</div><a href="www.google.com"> google.com</a> <A Href="www.pythonclub.org"> PythonClub </a> <A HREF = "www.sina.com.cn"> Sina </a> </html>'
