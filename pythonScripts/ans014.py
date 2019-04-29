@@ -35,7 +35,6 @@ with open('student.txt','r') as txtfile:
 
 	for row,key in enumerate(alldata):
 		Valuelist = key
-		row ++1
 		for column,i in enumerate(Valuelist):
 			print(i)
 			table.write(row,column,i)
