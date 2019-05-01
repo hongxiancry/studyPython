@@ -11,7 +11,7 @@
 import json,os
 from xlwt import *
 file = Workbook(encoding = 'utf-8')
-table = file.add_sheet('data')
+table = file.add_sheet('student')
 
 os.chdir('forans014')
 with open('student.txt','r') as txtfile:
