@@ -12,13 +12,13 @@ import glob
 
 
 
-def thumbnailPics(imagesPath):
+def thumbnailPics(imagesPath,picsize):
 	imPath = glob.glob('*.jpeg')
 	for imp in imPath:
 		iPath = os.path.join(imagesPath,imp)
 		im = Image.open(iPath)
 		#print(im.format, im.size, im.mode)
-		im.thumbnail((1136,640))
+		im.thumbnail(picsize)
 		#print(im.format, im.size, im.mode)
 		im.save(iPath,'JPEG')
 	print('just done!')
@@ -29,8 +29,7 @@ if __name__ == '__main__':
 	imagesPath = os.path.join(currentPath,'foranswer005') 
 	#print('imagesPath:',imagesPath)
 	os.chdir(imagesPath)
-	thumbnailPics(imagesPath)
-
+	thumbnailPics(imagesPath,(1136,640))
 
 
 
