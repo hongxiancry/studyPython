@@ -1,0 +1,670 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"l",
+				"loginResult"
+			],
+			[
+				"in",
+				"input_pass"
+			],
+			[
+				"en",
+				"encrypt_pass"
+			],
+			[
+				"co",
+				"countTelTimes"
+			],
+			[
+				"str",
+				"strXml"
+			],
+			[
+				"st",
+				"strnumList"
+			],
+			[
+				"num",
+				"numbers"
+			],
+			[
+				"nu",
+				"numlist"
+			],
+			[
+				"append",
+				"appendChild"
+			],
+			[
+				"ap",
+				"appendChild"
+			],
+			[
+				"p",
+				"parseNumbers"
+			],
+			[
+				"re",
+				"readnumbers"
+			],
+			[
+				"my",
+				"mytestInfo"
+			],
+			[
+				"bu",
+				"bulidStudentsInfos"
+			],
+			[
+				"json",
+				"jsonData"
+			],
+			[
+				"n",
+				"ncols"
+			],
+			[
+				"stu",
+				"students_data"
+			],
+			[
+				"ro",
+				"rough_string"
+			],
+			[
+				"m",
+				"minidom"
+			],
+			[
+				"E",
+				"ElementTree"
+			],
+			[
+				"El",
+				"ElementTree"
+			],
+			[
+				"e",
+				"etree"
+			],
+			[
+				"xm",
+				"info_xml"
+			],
+			[
+				"te",
+				"tempcolsData"
+			],
+			[
+				"ex",
+				"excelData"
+			],
+			[
+				"a",
+				"alldata"
+			],
+			[
+				"sva",
+				"savePic"
+			],
+			[
+				"do",
+				"downloadDir"
+			],
+			[
+				"reuq",
+				"requestUrl"
+			],
+			[
+				"stop",
+				"stop_word_len"
+			],
+			[
+				"sto",
+				"stopWord"
+			],
+			[
+				"fi",
+				"filterStopWords"
+			],
+			[
+				"M",
+				"myHTMLParser"
+			],
+			[
+				"S",
+				"self"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"va",
+				"varaibles"
+			],
+			[
+				"is",
+				"is_bodystart"
+			],
+			[
+				"dir",
+				"dirpath"
+			],
+			[
+				"os",
+				"osdirpath"
+			],
+			[
+				"file",
+				"fileCountLine"
+			],
+			[
+				"di",
+				"dirCountLineNum"
+			],
+			[
+				"code",
+				"codeLineNum"
+			],
+			[
+				"im",
+				"imagesPath"
+			],
+			[
+				"tu",
+				"thumbnailPics"
+			],
+			[
+				"cou",
+				"counts"
+			],
+			[
+				"count",
+				"countWords"
+			],
+			[
+				"test",
+				"testwords"
+			],
+			[
+				"conn",
+				"connt"
+			],
+			[
+				"sam",
+				"sampleString"
+			],
+			[
+				"sa",
+				"sampleString"
+			],
+			[
+				"new",
+				"new_user1"
+			],
+			[
+				"cl",
+				"Column"
+			],
+			[
+				"de",
+				"declarative_base"
+			],
+			[
+				"cr",
+				"cursor"
+			],
+			[
+				"con",
+				"connt"
+			],
+			[
+				"db",
+				"db_file"
+			],
+			[
+				"I",
+				"ImageDraw"
+			],
+			[
+				"fo",
+				"forward"
+			],
+			[
+				"for",
+				"forward"
+			],
+			[
+				"fil",
+				"finally"
+			],
+			[
+				"f",
+				"finally"
+			],
+			[
+				"read",
+				"readline"
+			],
+			[
+				"log",
+				"logging_file"
+			],
+			[
+				"__p",
+				"__private_2"
+			],
+			[
+				"__pr",
+				"__private_1"
+			],
+			[
+				"c",
+				"classStudy"
+			],
+			[
+				"nex",
+				"nextY"
+			],
+			[
+				"fl",
+				"flattern"
+			],
+			[
+				"A",
+				"Abcd"
+			],
+			[
+				"__",
+				"__init__"
+			],
+			[
+				"B",
+				"Bird"
+			],
+			[
+				"T",
+				"Talker"
+			],
+			[
+				"sub",
+				"subF"
+			],
+			[
+				"_",
+				"__\t__magic__"
+			],
+			[
+				"se",
+				"setBookName"
+			],
+			[
+				"len",
+				"length_message"
+			],
+			[
+				"fa",
+				"factorial"
+			],
+			[
+				"mu",
+				"multiplier"
+			],
+			[
+				"fu",
+				"full_names"
+			],
+			[
+				"la",
+				"label"
+			],
+			[
+				"name",
+				"namest"
+			],
+			[
+				"tr",
+				"try_to_changenames"
+			],
+			[
+				"pr",
+				"printed"
+			],
+			[
+				"nm",
+				"number"
+			],
+			[
+				"lb",
+				"labels"
+			],
+			[
+				"stri",
+				"stripstr"
+			],
+			[
+				"sp",
+				"splitstr"
+			],
+			[
+				"s",
+				"substitute"
+			],
+			[
+				"fr",
+				"format"
+			],
+			[
+				"sor",
+				"sorted"
+			],
+			[
+				"pop",
+				"popstr"
+			],
+			[
+				"inpu",
+				"inputname"
+			],
+			[
+				"d",
+				"downtext_width"
+			],
+			[
+				"da",
+				"day_number"
+			],
+			[
+				"mo",
+				"month_number"
+			],
+			[
+				"h",
+				"Hello"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+			"exit",
+			"wq",
+			"wa",
+			"quit",
+			"q",
+			"exit",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"python3 stringtest2.py"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/chairuiya/Documents/learn/studyPython/pythonScripts/django/Helloword/manage.py",
+		"/Users/chairuiya/Documents/learn/studyPython/pythonScripts/ans021.py",
+		"/Users/chairuiya/Library/Application Support/Sublime Text 3/Packages/SublimeREPL/config/Python/Main.sublime-menu",
+		"/Users/chairuiya/Library/Application Support/Sublime Text 3/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/Users/chairuiya/Documents/learn/studyPython/pythonScripts/ans020.py",
+		"/Users/chairuiya/Library/Application Support/Sublime Text 3/Packages/User/SublimeREPL.sublime-settings",
+		"/Users/chairuiya/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/chairuiya/Library/Application Support/Sublime Text 3/Packages/User/python3.sublime-build",
+		"/Users/chairuiya/Documents/learn/studyPython/pythonScripts/answer005.py",
+		"/Users/chairuiya/Documents/learn/studyPython/pythonScripts/answer004.py",
+		"/Users/chairuiya/Documents/learn/studyPython/pythonScripts/ans019.py",
+		"/Users/chairuiya/Documents/learn/studyPython/pythonScripts/ans017.py",
+		"/Users/chairuiya/Documents/learn/studyPython/pythonScripts/an0171.py",
+		"/Users/chairuiya/Documents/learn/studyPython/pythonScripts/student.xml",
+		"/Users/chairuiya/Documents/learn/studyPython/pythonScripts/forans016/foans016.py",
+		"/Users/chairuiya/Documents/learn/studyPython/pythonScripts/forans016/numbers.txt",
+		"/Users/chairuiya/Documents/learn/studyPython/pythonScripts/ans014.py",
+		"/Users/chairuiya/Documents/learn/studyPython/pythonScripts/students.xls",
+		"/Users/chairuiya/Documents/learn/studyPython/pythonScripts/ans009.py",
+		"/Users/chairuiya/Documents/learn/studyPython/pythonScripts/ans008.py",
+		"/Users/chairuiya/Documents/learn/studyPython/pythonScripts/filtered_words.txt",
+		"/Users/chairuiya/Documents/learn/studyPython/pythonScripts/ans011.py",
+		"/Users/chairuiya/Documents/learn/studyPython/pythonScripts/ans008",
+		"/Users/chairuiya/Documents/learn/studyPython/pythonScripts/ans007.py",
+		"/Users/chairuiya/Documents/learn/studyPython/pythonScripts/ans0010.py",
+		"/Users/chairuiya/Documents/learn/studyPython/pythonScripts/0010.py",
+		"/Users/chairuiya/Documents/learn/studyPython/pythonScripts/001.py",
+		"/Users/chairuiya/Documents/learn/studyPython/pythonScripts/ans006",
+		"/Users/chairuiya/Documents/learn/studyPython/pythonScripts/answer005",
+		"/Users/chairuiya/Documents/learn/studyPython/001/answer004.py",
+		"/Users/chairuiya/Documents/learn/studyPython/001/test0003.txt",
+		"/Users/chairuiya/Documents/learn/studyPython/001/0002.py",
+		"/Users/chairuiya/Documents/learn/studyPython/moduleTest.py",
+		"/Users/chairuiya/Documents/learn/studyPython/0002.py",
+		"/Users/chairuiya/Documents/learn/studyPython/socketCode.py",
+		"/Users/chairuiya/Documents/learn/studyPython/clients.py",
+		"/Users/chairuiya/Documents/learn/studyPython/servers.py",
+		"/Users/chairuiya/Documents/learn/studyPython/sina.py",
+		"/Users/chairuiya/Documents/learn/studyPython/001/0001.py",
+		"/Users/chairuiya/Documents/learn/studyPython/001/# -*- coding:utf-8 -*-",
+		"/Users/chairuiya/Documents/learn/studyPython/databasetest/sqlalchemyTest.py",
+		"/Users/chairuiya/Documents/learn/studyPython/databasetest/mysqlTest.py",
+		"/Users/chairuiya/Documents/my.cnf",
+		"/usr/local/mysql-8.0.15-macos10.14-x86_64/README",
+		"/Users/chairuiya/Documents/learn/studyPython/connectDataBase.py",
+		"/Users/chairuiya/Documents/learn/studyPython/001/connectDataBase.py",
+		"/Users/chairuiya/Documents/learn/studyPython/001/001.py",
+		"/Users/chairuiya/Documents/learn/studyPython/001.py",
+		"/Users/chairuiya/Documents/learn/studyPython/pythonGUI.py",
+		"/Users/chairuiya/Documents/learn/studyPython/turtleGui.py",
+		"/Users/chairuiya/Documents/learn/studyPython/tree.py",
+		"/Users/chairuiya/Documents/learn/studyPython/fileIO.py",
+		"/Users/chairuiya/Documents/learn/studyPython/fileIO.PY",
+		"/Users/chairuiya/Documents/learn/studyPython/pythonRegx.txt",
+		"/Users/chairuiya/Documents/learn/studyPython/regex.py",
+		"/Users/chairuiya/Documents/learn/studyPython/rex.py",
+		"/Users/chairuiya/Documents/learn/studyPython/moduleScript1.py",
+		"/Users/chairuiya/Documents/learn/studyPython/standardLibary.py",
+		"/Users/chairuiya/Documents/learn/studyPython/moduleScript1",
+		"/Applications/Python 3.7/hellotest.py",
+		"/Users/chairuiya/Documents/learn/studyPython/classStudy.py",
+		"/Users/chairuiya/Documents/learn/studyPython/exceptionTests.py",
+		"/Users/chairuiya/Documents/learn/studyPython/objectTest.py",
+		"/Users/chairuiya/Documents/learn/studyPython/functiontest.py",
+		"/Users/chairuiya/Documents/learn/studyPython/abstract.py",
+		"/Users/chairuiya/Documents/learn/studyPython/testpython.py",
+		"/Users/chairuiya/Documents/learn/studyPython/factorial.py",
+		"/Users/chairuiya/Documents/learn/studyPython/def factorial.py",
+		"/Users/chairuiya/Documents/learn/studyPython/loouptest.py",
+		"/Users/chairuiya/Documents/learn/studyPython/forOrother.py",
+		"/Users/chairuiya/Documents/learn/studyPython/mapkeylearn.py",
+		"/Users/chairuiya/Documents/learn/studyPython/stringlearn1.py",
+		"/Users/chairuiya/Documents/learn/studyPython/stringtest2.py",
+		"/Users/chairuiya/Documents/learn/studyPython/sequence.py",
+		"/Users/chairuiya/Documents/learn/studyPython/listtest.py",
+		"/Users/chairuiya/Documents/learn/studyPython/.gitignore",
+		"/Users/chairuiya/Documents/learn/studyPython/stringtest.py",
+		"/Users/chairuiya/Documents/learn/studyPython/hello.py"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 249.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/python3.sublime-build",
+	"project": "__init__.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"untitled"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/learn/studyPython/pythonScripts/django/blogs/manage.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
