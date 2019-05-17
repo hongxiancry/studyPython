@@ -747,7 +747,7 @@
 		"height": 0.0
 	},
 	"pinned_build_system": "Packages/User/python3.sublime-build",
-	"project": "manage.sublime-project",
+	"project": "views.sublime-project",
 	"replace":
 	{
 		"height": 44.0
