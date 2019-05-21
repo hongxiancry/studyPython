@@ -8,6 +8,8 @@ path(r'',views.HomeView.as_view(),name='home'),
 path(r'^post/(?P<pk>\d+)/$',views.PostDetailView.as_view(),name='detail'),
 path(r'^archives/(?P<year>[0-9]{4})/(?P<month>[0-9]{1,2})/$',views.ArchivesView.as_view(),name='archives'),
 path(r'^category/(?P<pk>\d+)/$',views.CategoryView.as_view(),name='category'),
+path(r'^tag/(?P<pk>\d+)/$',views.TagView.as_view(),name='tag'),
 path(r'^contact/$',views.contact,name='contact'),
 path(r'^about/$',views.about,name='about'),
+path(r'^search/$',views.search,name='search')
 ]

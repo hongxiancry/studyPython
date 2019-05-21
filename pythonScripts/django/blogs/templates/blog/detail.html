@@ -19,6 +19,18 @@
                             <p>{{post.body|safe}}</p>
                         </blockquote>
                     </div>
+                    <div class="widget-tag-cloud">
+                        
+                <ul>
+                    标签：
+                    {%for tag in post.tags.all %}
+                        <li><a href="{%url 'blog:tag' tag.pk%}">{{tag.name}}</a></li>
+                    {%empty%}
+                暂无标签
+                {%endfor%}
+                </ul>
+
+            </div>
                 </article>
                 <section class="comment-area" id="comment-area">
                     <hr>

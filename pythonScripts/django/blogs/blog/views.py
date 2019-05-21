@@ -3,7 +3,7 @@ from django.shortcuts import render,get_object_or_404
 # Create your views here.
 from django.http import HttpResponse
 from comments.forms import CommentForm
-from .models import Post,Category
+from .models import Post,Category,Tag
 import markdown
 from django.views.generic import ListView,DetailView
 from django.core.paginator import Paginator,EmptyPage,PageNotAnInteger
@@ -104,3 +104,31 @@ def contact(request):
 
 def about(request):
 	return render(request,'about.html',context={})
+
+#获取tag
+class TagView(ListView):
+	model = Post
+	template_name = 'blog/homepage.html'
+	context_object_name = 'post_list'
+
+	paginate_by=2
+
+	def get_queryset(self):
+		tag = get_object_or_404(Tag,pk=self.kwargs.get('pk'))
+		return super(TagView,self).get_queryset().filter(tags=tag)
+#搜索功能实现
+def search(request):
+	keywords = request.GET.get('search')
+	error_message=''
+	if not keywords:
+		error_message='请输入关键词'
+		return render(request,'blog/homepage.html',context={'error_message':error_message})
+	else:
+		post_list = Post.objects.filter(title__icontains=keywords)
+		return render(request,'blog/homepage.html',context={'error_message':error_message,'post_list':post_list})
+
+
+
+
+
+
